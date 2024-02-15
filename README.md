@@ -11,7 +11,8 @@ Computer engineering student with technical knowledge in IT. My expertise in Inf
 - My work with Key Performance Indicators (KPIs) and automations has honed my analytical skills and attention to detail.
 
 # Tech Stack 🛠️
-- <img src="{https://via.placeholder.com/15/3776AB/000000?text=+](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}"/>
+- ![image]({https://via.placeholder.com/15/3776AB/000000?text=+](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
+- <img src="{https://via.placeholder.com/15/3776AB/000000?text=+](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
 - <img src="{https://via.placeholder.com/15/E34F26/000000?text=+](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}"/>
 - <img src="{https://via.placeholder.com/15/1572B6/000000?text=+](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}"/>
 - <img src="{JavaScript]([https://via.placeholder.com/15/F7DF1E/000000?text=+](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}"/>
