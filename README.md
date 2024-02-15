@@ -15,4 +15,4 @@ Computer engineering student with technical knowledge in IT. My expertise in Inf
 
 
 # Social 🌐
-Connect with me on LinkedIn: ![Linkedin](https://via.placeholder.com/15/0077B5/000000?text=+) [Rubens Junior](https://www.linkedin.com/in/rubens-junior-76a142231/)
+Connect with me on LinkedIn: ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Rubens Junior](https://www.linkedin.com/in/rubens-junior-76a142231/)
