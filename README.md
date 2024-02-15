@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there! 👋
+Computer engineering student with technical knowledge in IT. My expertise in Information Technology allows me to have a profound understanding of the latest industry trends and technologies, and my ability to quickly learn new skills enables me to keep up with the rapid and constant changes in the sector. I am always seeking new opportunities to enhance my skills and expand my knowledge in the field of technology and innovation.
 
-<!--
-**Ruubinhoo/Ruubinhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Expertise 💼
+- I specialize in developing versatile applications and automations using the Power Platform integrated with Python and various databases.
+- Proficient in Object-Oriented Programming in Python.
+- Experienced in crafting intuitive and visually appealing user interfaces and experiences utilizing Figma.
 
-Here are some ideas to get you started:
+# Skills 🧠
+- I possess a structured logic that enables me to rapidly grasp new programming languages with ease.
+- My work with Key Performance Indicators (KPIs) and automations has honed my analytical skills and attention to detail.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tech Stack 🛠️
+- Python ![Python](https://via.placeholder.com/15/3776AB/000000?text=+) 
+- HTML5 ![HTML5](https://via.placeholder.com/15/E34F26/000000?text=+) 
+- CSS ![CSS](https://via.placeholder.com/15/1572B6/000000?text=+) 
+- JavaScript ![JavaScript](https://via.placeholder.com/15/F7DF1E/000000?text=+) 
+- C ![C](https://via.placeholder.com/15/A8B9CC/000000?text=+) 
+- React.js ![React.js](https://via.placeholder.com/15/61DAFB/000000?text=+)
+
+# Social 🌐
+Connect with me on LinkedIn: ![Linkedin](https://via.placeholder.com/15/0077B5/000000?text=+) [Rubens Junior](https://www.linkedin.com/in/rubens-junior-76a142231/)
